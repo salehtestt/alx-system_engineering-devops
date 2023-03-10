@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp -Rh vincent staff
+chmod -Rh vincent staff
