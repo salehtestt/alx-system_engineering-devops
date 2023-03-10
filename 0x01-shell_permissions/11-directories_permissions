@@ -1,2 +1,2 @@
 #!/bin/bash
-choen -R +x .
+choen -R +X .
